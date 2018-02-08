@@ -1,0 +1,7 @@
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\bin\Debug\iniloaf.exe.config
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\bin\Debug\iniloaf.exe
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\bin\Debug\iniloaf.pdb
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\obj\Debug\iniloaf.csprojResolveAssemblyReference.cache
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\obj\Debug\iniloaf.csproj.CoreCompileInputs.cache
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\obj\Debug\iniloaf.exe
+c:\users\glocken\documents\visual studio 2017\Projects\iniloaf\iniloaf\obj\Debug\iniloaf.pdb
